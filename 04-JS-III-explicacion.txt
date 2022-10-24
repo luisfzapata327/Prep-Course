@@ -1,0 +1,14 @@
+Arrays
+======
+
+Un array es una colección de tipos de datos. Estos pueden ser Strings, Números, Booleanos, etc.
+Los arrays permiten guardar una mayor cantidad de datos de lo que lo haría una variable.
+Los arrays distribuyen los datos de la siguiente manera:
+
+* Los arrays están encerrados entre corchetes "[]"
+* Cada dato estará separado por una coma ",'
+
+Para acceder a algún dato en especifico, se utiliza el nombre del array seguido de corchetes y dentro de estos escribir un "indice" o posición.
+
+Ej: listaDeCompras = ["Huevos", "Carne", "Arroz"];
+listaDeCompras[0]; // Huevos.
