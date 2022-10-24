@@ -1,0 +1,19 @@
+`for`
+=====
+Es uno tipo de bucle más completo que los demás bucles (`while`, `do-while`). Este bucle contiene 3 partes, las cuales constan en:
+
+* Inicialización de una variable, que servirá para recorrer el bucle.
+* Una expresión condicional, que será la regla que permitirá que el bucle tenga un fin (o no).
+* Un incrementador de la variable que inicializamos en la primera parte.
+
+Ya después sigue su respectivo bloque de código.
+
+`&&`, `||`, `!`
+Son operadores lógicos un tanto más especiales: permiten comparar dos o más expresiones condicionales. Estas son sus funciones respectivamente:
+
+* && representa un "Y" o "AND". Este operador lógico devuelve "true" si solo si ambas expresiones dentro del condicional son verdaderas. En otros escenarios siempre 
+devolverá "false"
+* || representa un "O" o "OR". Distinto al operador && este puede devolver "true" si solo si una de las expresiones es verdadera. Para devolver "false" ambas 
+expresiones deben ser falsas.
+* ! representa un "NOT. Este devuelve el resultado contrario de las expresiones condicionales. Si obtenemos un "true" al evaluar las expresiones, entonces el "!" 
+devolverá "false" y viceversa.

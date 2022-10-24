@@ -1,0 +1,25 @@
+Variables
+=========
+Una variable es una forma de almacenar cualquier tipo de valor, ya sea una cadena (String), un número, un booleano, etc.
+Aparte de almacenar valores, estas variables pueden tener nombres para poder identificarlas facilmente.
+
+Strings
+=======
+Significa "cadena de carácteres" en Inglés. Pueden ser letras, palabras o frases enteras. Su forma de escribirla es rodear la cadena entre comillas simples ('') o
+comillas dobles ("")
+
+Funciones (argumentos, `return`)
+================================
+Las funciones son objetos particulares que se encargan de ejecutar cualquier tarea que queramos representar. 
+Estas funciones pueden funcionar solas o pasándole "argumentos". Estos argumentos son valores que puede necesitar dicha función para cumplir con su tarea.
+Por último está la palabra "return". Esta es una palabra reservada de los lenguajes de programación y esta se encarga de "retornar" o "devolver" un valor u operación 
+que le demos. "return" no requiere de un signo igual (=) para funcionar.
+
+Declaraciones if
+================
+Los if son llamados condicionales, de ahí que en español sea "Si". Basicamente un condicional es una predición donde determinaremos qué sucederá cuando le pasemos una
+condición
+
+Valores Booleanos
+=================
+Los valores Booleanos es un tipo de dato lógico que presenta un valor de verdad, es decir verdadero ("true") o falso ("false")
