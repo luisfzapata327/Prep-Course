@@ -1,0 +1,26 @@
+Objetos
+=======
+
+Son otro tipo de contenedores de datos aparte de los arrays. Una diferencia clave de los objetos sobre los arrays, es que los objetos pueden contener mucha información
+sobre una sola cosa. La instancia (o la forma de crearlos) es entre llaves ("{}");
+
+Propiedades
+===========
+
+Las propiedades, en el contexto de objetos, son cada par clave-valor que este contenga.
+
+Métodos
+=======
+
+Es el nombre que se le dá a una función cuando es asignada como valor de una variable  o como propiedad de un objeto.
+
+Bucle "for...in"
+================
+
+Es una variación del for clásico. Este es más consciso y está enfocado para objetos ya que estos no se pueden acceder mediante "indices" como lo hace los arrays.
+
+Notación de puntos vs notación de corchetes
+===========================================
+
+La diferencia entre estas dos notaciones es que la notación de corchetes está creada para usar principalmente variables (para acceder a una propiedad de un objeto de 
+forma más dinámica).
