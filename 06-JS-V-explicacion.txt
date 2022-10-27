@@ -1,0 +1,10 @@
+Prototype
+=========
+
+Prototype es una clase que permite de forma única establecer métodos (funciones asignadas a una variable) y a su vez permite que todos los objetos relacionados puedan
+acceder a esos métodos.
+
+_Constructors_
+==============
+
+Los constructros son clases que permite almacenar toda la información de un objeto y poder compartirla a otros objetos que tiene las mismas propiedades y métodos.
