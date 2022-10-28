@@ -1,0 +1,4 @@
+Funciones Callback
+==================
+
+Son funciones que se pasan como argumento dentro de otra función "function inception!" Basicamente es una función que es llamada dentro de otra función.
