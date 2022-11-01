@@ -1,0 +1,50 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  background: url(https://static.zerochan.net/X.%28Mega.Man.X%29.full.2331170.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: skyblue;
+}
+
+img {
+  width: 400px;
+}
+
+#thirdDiv {
+  display: flex;
+  justify-content: center;
+  height: 600px;
+  width: 500px;
+  background-color: bisque;
+  padding: 50px;
+  border: 2px solid blue;
+  display: flex;
+  min-width: 100%;
+}
+
+#spanId, a {
+  font-size: 18px;
+  margin: 50px;
+}
+
+.divClass {
+  text-align: center;
+  background-color:aliceblue;
+  opacity: 0.8;
+}
+
+.divClass > h1, .divClass > h3, .divClass > h4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.3em;
+}

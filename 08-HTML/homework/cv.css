@@ -1,0 +1,105 @@
+*, ::before, ::after {
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  font-size: 3.5rem;
+}
+h2 {
+  font-size: 2rem;
+}
+h3 {
+  font-size: 1.25rem;
+}
+h4 {
+  font-size: 0.875rem;
+}
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+img {
+  width: 120px;
+  height: auto;
+}
+
+section {
+  margin-bottom: 1%;
+  line-height: 1.3;
+}
+
+ul > li {
+  margin-left: 3.5%;
+  line-height: 1.3;
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.hero {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero p {
+  font-size: 1.6rem;
+}
+
+.hero-img {
+  border-radius: 45%;
+  object-fit: cover;
+  padding: 1%;
+}
+
+.hero-heading {
+  display: flex;
+  flex-direction: column;
+  font-size: 1.2rem;
+}
+
+.info {
+  padding: 0 2%;
+}
+
+.sub-container {
+  width: 100%;
+  display: flex;
+  padding-top: 1%;
+  font-size: 1.3rem;
+}
+
+.sub-container h2 {
+  margin-bottom: 0.5%;
+}
+
+.side-bar {
+  width: 30%;
+  padding: 0 2%;
+}
+
+.side-bar h2 {
+  margin-bottom: 0.5%;
+}
+
+.side-bar > ul {
+  padding: 1.5% 0 2%;
+  display: flex;
+  flex-direction: column;
+}
+
+.side-bar > ul > li {
+  padding: 0.5%;
+}
+
+a {
+  text-decoration: none;
+  color: black; 
+}
